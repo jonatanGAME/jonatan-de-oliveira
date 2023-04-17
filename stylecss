@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    paddimg: 0;
+
+    .cabeçalho{
+    background-color: #B7E9FF;
+    color:white;
+    diplay: flex;
+}
